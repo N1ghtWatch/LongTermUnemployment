@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1738
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "LongtermEmployement", "LongtermEmployement\LongtermEmployement.rptproj", "{E0381E17-AEAA-44E1-8A33-EA0180740007}"
+EndProject
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "Integration Services Project1", "Integration Services Project1\Integration Services Project1.dtproj", "{214ADCA1-0940-4396-B61F-0ADAD954664E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Development|Default = Development|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0381E17-AEAA-44E1-8A33-EA0180740007}.Debug|Default.ActiveCfg = Debug
+		{E0381E17-AEAA-44E1-8A33-EA0180740007}.Debug|Default.Build.0 = Debug
+		{E0381E17-AEAA-44E1-8A33-EA0180740007}.Debug|Default.Deploy.0 = Debug
+		{E0381E17-AEAA-44E1-8A33-EA0180740007}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{E0381E17-AEAA-44E1-8A33-EA0180740007}.DebugLocal|Default.Build.0 = DebugLocal
+		{E0381E17-AEAA-44E1-8A33-EA0180740007}.Development|Default.ActiveCfg = DebugLocal
+		{E0381E17-AEAA-44E1-8A33-EA0180740007}.Development|Default.Build.0 = DebugLocal
+		{E0381E17-AEAA-44E1-8A33-EA0180740007}.Development|Default.Deploy.0 = DebugLocal
+		{E0381E17-AEAA-44E1-8A33-EA0180740007}.Release|Default.ActiveCfg = Release
+		{E0381E17-AEAA-44E1-8A33-EA0180740007}.Release|Default.Build.0 = Release
+		{E0381E17-AEAA-44E1-8A33-EA0180740007}.Release|Default.Deploy.0 = Release
+		{214ADCA1-0940-4396-B61F-0ADAD954664E}.Debug|Default.ActiveCfg = Development
+		{214ADCA1-0940-4396-B61F-0ADAD954664E}.Debug|Default.Build.0 = Development
+		{214ADCA1-0940-4396-B61F-0ADAD954664E}.DebugLocal|Default.ActiveCfg = Development
+		{214ADCA1-0940-4396-B61F-0ADAD954664E}.DebugLocal|Default.Build.0 = Development
+		{214ADCA1-0940-4396-B61F-0ADAD954664E}.Development|Default.ActiveCfg = Development
+		{214ADCA1-0940-4396-B61F-0ADAD954664E}.Development|Default.Build.0 = Development
+		{214ADCA1-0940-4396-B61F-0ADAD954664E}.Release|Default.ActiveCfg = Development
+		{214ADCA1-0940-4396-B61F-0ADAD954664E}.Release|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F810D9C-D82F-4BC4-92AB-13CFF5E20F19}
+	EndGlobalSection
+EndGlobal
